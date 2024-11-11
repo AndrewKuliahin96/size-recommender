@@ -1,7 +1,7 @@
 name: size_recommender
 description: "Flutter plugin for size recommendations based on BMI."
-version: 0.0.1
-homepage:
+version: 0.0.2
+homepage: "https://github.com/AndrewKuliahin96/size-recommender"
 
 environment:
   sdk: ^3.5.4
